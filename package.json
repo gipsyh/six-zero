@@ -1,8 +1,10 @@
 {
     "name": "six-zero",
-    "displayName": "six-zero",
+    "displayName": "Six-Zero",
     "description": "",
     "version": "0.0.1",
+    "publisher": "gipsyh",
+    "repository": {"url": "https://github.com/gipsyh/six-zero"},
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -12,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "six-zero",
+                "label": "Six-Zero",
                 "uiTheme": "vs-dark",
                 "path": "./themes/six-zero-color-theme.json"
             }
