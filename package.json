@@ -1,0 +1,21 @@
+{
+    "name": "six-zero",
+    "displayName": "six-zero",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "six-zero",
+                "uiTheme": "vs-dark",
+                "path": "./themes/six-zero-color-theme.json"
+            }
+        ]
+    }
+}
